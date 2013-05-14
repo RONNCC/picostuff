@@ -1,0 +1,17 @@
+
+Scalpel version 1.60 audit file
+Started at Sun Apr 28 17:17:30 2013
+Command line:
+scalpel spamcarver.jpg -o spamdir 
+
+Output directory: /home/sghose/Github/picostuff/spamdir
+Configuration file: /etc/scalpel/scalpel.conf
+
+Opening target "/home/sghose/Github/picostuff/spamcarver.jpg"
+
+The following files were carved:
+File		  Start			Chop		Length		Extracted From
+00000000.jpg            0		NO            52110		spamcarver.jpg
+
+
+Completed at Sun Apr 28 17:17:30 2013
